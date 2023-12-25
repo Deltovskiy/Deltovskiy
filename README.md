@@ -1,6 +1,6 @@
 # Hi there 👋
 # I'm Deltovskiy 👨🏻‍💻
-## I'm Web developer 📡
+## I'm Java developer 👾
 ## Live in Russia 🇷🇺
-#### My discord: Deltaoriginal.
+#### My discord: komqru
 #### My telegram: <a href="https://t.me/mxmdlt">Maksim</a>
